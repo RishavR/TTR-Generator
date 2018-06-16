@@ -4,6 +4,8 @@ A small teaching blog to show the usablitity of the Type-Token-Ratio Measure (TT
 <div style="text-align:center"><h1>
 CODE
 </h1></div>
+<Br>
+
 **STEP 1:** 
 
 ##### We will have to import our dependencies. 
