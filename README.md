@@ -3,6 +3,13 @@ A small teaching blog to show the usablitity of the Type-Token-Ratio Measure (TT
 
 ### This is the Solution to the coding challenge posted [here](https://rishavr.github.io/Hand-Coding-Our-Very-Own-Type-Token-Ratio-Generator/) 
  <br><Br>
+ 
+ ##### How to run: 
+ 
+ ``` 
+ python TTR_Generator.py
+ ```
+ 
 <div style="text-align:center"><h1>
 CODING CHALLENGE 
 </h1></div>
