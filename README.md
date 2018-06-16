@@ -1,10 +1,10 @@
 # TTR-Generator
 A small teaching blog to show the usablitity of the Type-Token-Ratio Measure (TTR) as an introduction to Natural Language Procesing. If you like this lesson, do star it! :) 
 
-### This is the Solution to the coding challange posted [here](https://rishavr.github.io/Hand-Coding-Our-Very-Own-Type-Token-Ratio-Generator/) 
+### This is the Solution to the coding challenge posted [here](https://rishavr.github.io/Hand-Coding-Our-Very-Own-Type-Token-Ratio-Generator/) 
  <br><Br>
 <div style="text-align:center"><h1>
-CODING CHALLANGE 
+CODING CHALLENGE 
 </h1></div>
 <Br>
 
@@ -58,7 +58,7 @@ print(TTR)
 
 ##### Here is a Challenge for You:  
 
-#####Download [This](https://github.com/RishavR/TTR-Generator/tree/master/Corpus-Collection) Corpus (Collection Of Text Files) And Compare The TTR Values Of Each Text File And Plot Them On A Sentence_Rank Vs TTR Graph like this ->
+##### Download [This](https://github.com/RishavR/TTR-Generator/tree/master/Corpus-Collection) Corpus (Collection Of Text Files) And Compare The TTR Values Of Each Text File And Plot Them On A Sentence_Rank Vs TTR Graph like this ->
 
 ![Generated Graph](https://raw.githubusercontent.com/RishavR/TTR-Generator/master/TTRscore.png)
 
