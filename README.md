@@ -1,5 +1,5 @@
 # TTR-Generator
-A small teaching blog to show the usablitity of the Type-Token-Ratio Measure (TTR) as an introduction to Natural Language Procesing. If you like this lesson, do star it! :) 
+A small teaching blog to show the usablitity of the Type-Token-Ratio Measure (TTR) as an introduction to Natural Language Procesing. If you like this lesson, do star it! :) **Posted to [TCS Campus Commune - Artificial Intelligence Channel](https://campuscommune.tcs.com/users/rishav-382)**
 
 ### This is the Solution to the coding challenge posted [here](https://rishavr.github.io/Hand-Coding-Our-Very-Own-Type-Token-Ratio-Generator/) 
  
